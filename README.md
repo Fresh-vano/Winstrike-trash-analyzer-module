@@ -1,0 +1,2 @@
+# Winstrike-trash-analyzer-module
+ 
