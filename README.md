@@ -125,7 +125,8 @@ docker-compose up
 
 # Пример использования, иллюстрированный процессом обработки скринкаста.
 
-3339372_online-video-cutter.com.mp4
+https://github.com/Fresh-vano/Winstrike-trash-analyzer-module/assets/74467916/924931f4-1f23-4b2f-93ab-8aabc93acf84
+
 
 *Ознакомиться с видео в хорошем качестве можете перейдя по ссылке* https://drive.google.com/file/d/16N1zIyLxKfyr48mjGRydFpd19LnZkopZ/view?usp=sharing
 
@@ -133,7 +134,8 @@ docker-compose up
 
 # Пример обработанного видео
 
-skrinkast-video-convertercom_JrkGZRSi.mp4
+https://github.com/Fresh-vano/Winstrike-trash-analyzer-module/assets/74467916/af6cb1a3-1596-424f-af5e-d549fb87f922
+
 
 
 
