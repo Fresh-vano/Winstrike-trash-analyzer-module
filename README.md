@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./logo.png" alt="Логотип проекта" width="150" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
+    <img src="./logo.jpg" alt="Логотип проекта" width="150" style="display: inline-block; vertical-align: middle; margin-right: 10px;"/>  <br/>
      <H2 align="center">Команда Winstrike</H2> 
     <H2 align="center">Кейс №4 Департамент строительства города Москвы</H2> 
 </p>
