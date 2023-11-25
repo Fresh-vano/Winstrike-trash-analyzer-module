@@ -125,7 +125,7 @@ docker-compose up
 
 # Пример использования, иллюстрированный процессом обработки скринкаста.
 
-https://github.com/vurkcah/999/assets/91368670/fd599992-8809-4634-ab1c-237f37e10c79
+3339372_online-video-cutter.com.mp4
 
 *Ознакомиться с видео в хорошем качестве можете перейдя по ссылке* https://drive.google.com/file/d/16N1zIyLxKfyr48mjGRydFpd19LnZkopZ/view?usp=sharing
 
@@ -133,7 +133,7 @@ https://github.com/vurkcah/999/assets/91368670/fd599992-8809-4634-ab1c-237f37e10
 
 # Пример обработанного видео
 
-https://github.com/vurkcah/999/assets/91368670/9e95a97a-ae4a-4d60-b2c9-3e167e1e1ffc
+skrinkast-video-convertercom_JrkGZRSi.mp4
 
 
 
